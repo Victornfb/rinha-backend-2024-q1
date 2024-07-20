@@ -13,3 +13,7 @@ Submissão feita com:
 
 - Twitter: [@victornfb](https://twitter.com/victornfb)
 - LinkedIn: [Victor Nunes](https://www.linkedin.com/in/victornfb)
+
+## Resultado
+
+![Resultado - Rinha](https://github.com/user-attachments/assets/72209dd6-c531-4dd4-b929-934cdafa1e29)
